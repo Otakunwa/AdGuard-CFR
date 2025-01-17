@@ -3,16 +3,16 @@
 
 # Jan/17/2025
 @@||dns.msftncsi.com^$important
-@@||log.tailscale.io^$important
+@@||tailscale.io^$important
+@@||tailscale.com^$important
 @@||iadsdk.apple.com^$important
 @@||koolcenter.com^$important
 @@||koolshare.cn^$important
 @@||split.io^$important
-@@||www.filecr.com^$important
 @@||filecr.com^$important
 @@||imgstat.baidu.com^$important
 @@||massgrave.dev^$important
-@@||get.activated.win^$important
+@@||activated.win^$important
 @@||bitcomet.com^$important
 @@||utorrent.com^$important
 @@||transmissionbt.com^$important
